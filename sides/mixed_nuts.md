@@ -4,6 +4,7 @@
 
 - Chashews
 - Almonds
+- Macadamia
 
 ## Instructions
 
